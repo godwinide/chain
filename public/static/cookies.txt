@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&e9ac3afc-cf00-4e1a-872f-537fd2b56445"
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST08:s=O:r=O:a=O:p=O:g=2264:u=1:x=1:i=1648044495:t=1648130895:v=2:sig=AQFEyghVVAJjDi2y3dn_LJgCQByTf-A-"
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
